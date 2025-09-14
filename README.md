@@ -1,4 +1,4 @@
-# 👋 Hola, soy Marcos Arriagada Sáez  
+# 👋 Hola, soy Marcos Arriagada  
 
 🚀 Desarrollador Front-End en formación, con background en **ingeniería eléctrica** y un fuerte interés en crear soluciones digitales que mezclen **tecnología, usabilidad y utilidad real**.  
 
