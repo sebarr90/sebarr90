@@ -24,7 +24,6 @@ Actualmente me encuentro en un proceso de migración profesional al mundo TI, de
 - 🖥️ **Administración de sistemas:** Linux, Windows, scripting con PowerShell y Bash.  
 - 🔍 **Gestión de vulnerabilidades y testeo de seguridad.**  
 - 📑 **Documentación técnica y reportes.**  
-- 📂 **Construcción de portafolio profesional** orientado a la industria digital.  
 
 **Herramientas trabajadas:**  
 - Wireshark, Cisco Packet Tracer, scripting en PowerShell y Bash, administración en Windows/Linux.  
