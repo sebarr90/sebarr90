@@ -39,10 +39,8 @@ Actualmente me encuentro en un proceso de migración profesional al mundo TI, de
 ---
 
 ## 📌 Proyectos destacados
-- 🔧 **Asistente Eléctrico** – Aplicación con Vue + Firebase para consultas técnicas basadas en normativa chilena (RIC, SEC).  
-- 🛒 **Tienda Online con Contenido Educativo** – Venta de artículos eléctricos/electrónicos con material de apoyo para estudiantes.  
-- 📊 **ERP para Técnicos Eléctricos** – Gestión de proyectos, roles de usuario y portafolio compartido.  
-- 🎮 **Botonera para Simuladores** – Control remoto desde tablet/PC para Euro Truck Simulator 2 y Fernbus.  
+- 🌐 [cisco-network-implementation](https://github.com/sebarr90/cisco-network-implementation)
+
 
 ---
 
