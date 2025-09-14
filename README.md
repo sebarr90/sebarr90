@@ -40,6 +40,7 @@ Actualmente me encuentro en un proceso de migración profesional al mundo TI, de
 
 ## 📌 Proyectos destacados
 - 🌐 [cisco-network-implementation](https://github.com/sebarr90/cisco-network-implementation)
+- 🛡️ [ospf-nat-tacacs-lab](https://github.com/sebarr90/ospf-nat-tacacs-lab)
 
 
 ---
