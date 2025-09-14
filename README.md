@@ -30,20 +30,12 @@ Actualmente me encuentro en un proceso de migración profesional al mundo TI, de
 - Wireshark, Cisco Packet Tracer, scripting en PowerShell y Bash, administración en Windows/Linux.  
 
 ---
-## 🚀 Skills
 
-## 🚀 Skills
+## 🚀 Skills & 🛠️ Tecnologías
 
-| HTML5 | CSS3 | JavaScript | Vue.js | Firebase | Git | Linux | VS Code |
-|-------|------|------------|--------|----------|-----|-------|---------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> |
-
-## 🛠️ Tecnologías y herramientas
-- **Lenguajes:** JavaScript, HTML5, CSS3  
-- **Frameworks/Librerías:** Vue.js, Vuetify, Vue Router  
-- **Bases de datos:** Firebase (Firestore)  
-- **Herramientas:** Git/GitHub, VS Code, Figma, Node.js  
-- **Networking & Seguridad:** Wireshark, Packet Tracer, scripting en Bash y PowerShell  
+| HTML5 | CSS3 | JavaScript | Vue.js | Firebase | Git | Linux | VS Code | Bash | PowerShell | Wireshark | Packet Tracer |
+|-------|------|------------|--------|----------|-----|-------|---------|------|------------|-----------|---------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Wireshark_icon.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Cisco_logo_blue_2016.svg" width="70"/> |
 
 ---
 
